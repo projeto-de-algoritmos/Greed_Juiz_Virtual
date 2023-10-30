@@ -61,10 +61,10 @@ As questões foram submetidas ao leetcode, que possui uma estrutura de submissã
 
 ## Apresentação
  
- Assista ao vídeo abaixo no [Youtube]()
+ Assista ao vídeo abaixo no [Youtube](https://youtu.be/CtUPP6gQuEE)
  
 
-Para acessar o vídeo no repositório   [Clique Aqui]()
+Para acessar o vídeo no repositório   [Clique Aqui](/assets/PA_Greed.mp4)
 
 
 
